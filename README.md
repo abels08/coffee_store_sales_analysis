@@ -2,7 +2,7 @@
 
 ## 📌 Project Overview
 Raw sales data often contain errors, inconsistencies, and missing values, which limit their usefulness for analysis and decision-making.  
-This project focuses on transforming a **dirty café sales dataset** into a **clean, consistent, and reliable dataset**, followed by an exploratory analysis and the creation of actionable business insights.
+This project focuses on transforming a **dirty coffee store sales dataset** into a **clean, consistent, and reliable dataset**, followed by an exploratory analysis and the creation of actionable business insights.
 
 ---
 
